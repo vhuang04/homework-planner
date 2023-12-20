@@ -4,9 +4,9 @@ The Homework Planner is a command-line tool written in Python to help users mana
 
 #Features
 
-- Display Tasks:View the list of current tasks along with their completion status.
-- Add Task:Add a new task to the list with a provided description.
-- Mark Task as Completed:Mark a task as completed based on its index.
+- Display Tasks: View the list of current tasks along with their completion status.
+- Add Task: Add a new task to the list with a provided description.
+- Mark Task as Completed: Mark a task as completed based on its index.
 
 #Usage
 
@@ -19,7 +19,7 @@ The Homework Planner is a command-line tool written in Python to help users mana
 #File Storage
 
 Tasks are stored in a text file named `homework_tasks.txt`. Each line in the file represents a task with the format: `description,completed`.
-Though, this part of the program may not work due to a error in the code...
+However, this part of the program may not work due to an error in the code...
 
 #Example
  python homework_planner.py
